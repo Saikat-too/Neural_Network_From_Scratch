@@ -1,1 +1,1 @@
-# Neural_Network_From_Scratch
+Just a normal person who wants to know how machinary brain works
